@@ -1,0 +1,12 @@
+C:\Setup\Refactor\FlareBattleShip\StateTracker\bin\Debug\net5.0\StateTracker.deps.json
+C:\Setup\Refactor\FlareBattleShip\StateTracker\bin\Debug\net5.0\StateTracker.dll
+C:\Setup\Refactor\FlareBattleShip\StateTracker\bin\Debug\net5.0\ref\StateTracker.dll
+C:\Setup\Refactor\FlareBattleShip\StateTracker\bin\Debug\net5.0\StateTracker.pdb
+C:\Setup\Refactor\FlareBattleShip\StateTracker\obj\Debug\net5.0\StateTracker.csproj.AssemblyReference.cache
+C:\Setup\Refactor\FlareBattleShip\StateTracker\obj\Debug\net5.0\StateTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Setup\Refactor\FlareBattleShip\StateTracker\obj\Debug\net5.0\StateTracker.AssemblyInfoInputs.cache
+C:\Setup\Refactor\FlareBattleShip\StateTracker\obj\Debug\net5.0\StateTracker.AssemblyInfo.cs
+C:\Setup\Refactor\FlareBattleShip\StateTracker\obj\Debug\net5.0\StateTracker.csproj.CoreCompileInputs.cache
+C:\Setup\Refactor\FlareBattleShip\StateTracker\obj\Debug\net5.0\StateTracker.dll
+C:\Setup\Refactor\FlareBattleShip\StateTracker\obj\Debug\net5.0\ref\StateTracker.dll
+C:\Setup\Refactor\FlareBattleShip\StateTracker\obj\Debug\net5.0\StateTracker.pdb
